@@ -1,21 +1,24 @@
 # Hi, I'm Shreya Rana 👋
 
 🎓 4th Year B.Tech IT Student at A.D. Patel Institute of Technology
+
 💻 Interested in Full Stack Development and AI/ML
+
 🚀 Building web applications and machine learning projects
+
 📚 Preparing for placements and improving problem-solving skills
 
 ---
 
-## 🛠 Skills
+# 🛠 Skills
 
-### Languages
+## Languages
 
 * Java
 * Python
 * JavaScript
 
-### Web Development
+## Web Development
 
 * HTML
 * CSS
@@ -24,20 +27,20 @@
 * Node.js
 * Express.js
 
-### Database
+## Database
 
 * MongoDB
 * MySQL
 * PostgreSQL
 
-### AI/ML
+## AI/ML
 
 * Pandas
 * NumPy
 * Scikit-learn
 * Jupyter Notebook
 
-### Tools
+## Tools
 
 * Git
 * GitHub
@@ -53,10 +56,10 @@ ML-based student performance prediction system using Python and Scikit-learn.
 
 ### Features
 
-* Data preprocessing
-* Model training and prediction
-* Performance analysis
-* Visualization using Python libraries
+* Student data preprocessing and cleaning
+* Machine learning model training and prediction
+* Performance analysis using evaluation metrics
+* Data visualization using Python libraries
 
 ### Tech Stack
 
@@ -66,13 +69,14 @@ Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
 
 ## 🔹 CODE_HEIST
 
-Full-stack TypeScript-based web application with modern UI and backend integration.
+AI-assisted hackathon project built using TypeScript and modern web technologies.
 
 ### Features
 
-* Interactive frontend
-* Backend integration
-* Responsive design
+* Responsive user interface
+* Dynamic frontend interactions
+* AI-assisted development workflow
+* Explored modern web development concepts during hackathon development
 
 ### Tech Stack
 
@@ -114,11 +118,11 @@ HTML, CSS, JavaScript, Bootstrap
 
 # 💼 Experience
 
-### Web Development Intern — InternPe
+## Web Development Intern — InternPe
 
 Worked on frontend web development projects and practical implementations using HTML, CSS, JavaScript, and Bootstrap.
 
-### Web Development Intern — 3Skill
+## Web Development Intern — 3Skill
 
 Worked on learning-based web and technical projects during internship training.
 
@@ -126,26 +130,28 @@ Worked on learning-based web and technical projects during internship training.
 
 # 📜 Certifications & Achievements
 
+* Shortlisted for AI/ML Internship Program – Infosys Springboard
+* Completed multiple AI/ML learning modules and certifications through Infosys Springboard
 * Web Development Internship – InternPe
+* Web Development Internship – 3Skill
 * PPL EdSprint 2025: Vibe Coding Challenge
-* Introduction to Data Science course by infosys Springboard
 * CVMU Hackathon 4.0 Finalist
-* participated in odoo X Gcet Hackathon
+* Participated in Odoo x GCET Hackathon
 
 ---
 
 # 🎯 Currently Working On
 
-* Exploring AI/ML projects and integrations
-* Placement preparation
+* Improving Full Stack Development skills
+* Building ML-based projects using Python
+* Learning backend development with Node.js and Express.js
+* Preparing for technical interviews and placements
 
 ---
 
 # 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/
+* LinkedIn: https://www.linkedin.com/in/shreya-rana-292367324/
 * Email: [shreyarana1108@gmail.com](mailto:shreyarana1108@gmail.com)
 
 ---
-
-⭐ Always learning and building practical projects.

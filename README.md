@@ -1,9 +1,9 @@
 # Hi, I'm Shreya Rana 👋
 
-🎓 4th Year B.Tech IT Student at A.D. Patel Institute of Technology, Anand
+🎓 4th Year B.Tech IT Student at A.D. Patel Institute of Technology
 💻 Interested in Full Stack Development and AI/ML
 🚀 Building web applications and machine learning projects
-📚 Currently preparing for placements and improving problem-solving skills
+📚 Preparing for placements and improving problem-solving skills
 
 ---
 

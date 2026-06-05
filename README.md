@@ -52,18 +52,28 @@
 
 ## 🔹 Prelytix
 
-ML-based student performance prediction system using Python and Scikit-learn.
+Collection of machine learning prediction projects built using Python and Scikit-learn during AI/ML internship and hands-on practice.
 
-### Features
+### Projects Included
 
-* Student data preprocessing and cleaning
+* Student Performance Prediction
+* House Price Prediction
+* Loan Approval Prediction
+* Customer Churn Prediction
+* Taxi Fare Prediction
+
+### Concepts Explored
+
+* Data preprocessing and cleaning
 * Machine learning model training and prediction
-* Performance analysis using evaluation metrics
+* Model evaluation and performance analysis
 * Data visualization using Python libraries
+* Regression and classification techniques
 
 ### Tech Stack
 
 Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
+
 
 ---
 
@@ -117,6 +127,15 @@ HTML, CSS, JavaScript, Bootstrap
 ---
 
 # 💼 Experience
+
+AI/ML Intern — Prelytix
+
+📅 May 2026 – Present
+
+Working on machine learning prediction projects using Python and Scikit-learn
+Exploring regression and classification models using real-world datasets
+Performing data preprocessing, model training, and evaluation
+Gaining hands-on experience with practical AI/ML workflows
 
 ## Web Development Intern — InternPe
 
